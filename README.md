@@ -1,5 +1,5 @@
-# ECPC
-ECPC for infrared and visible image resgitration
+# ECPCM
+ECPCM for infrared and visible image resgitration
 
 **Author Contact**  
 
